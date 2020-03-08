@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# 全局忽略DS_Store:
+.DS_Store 
+*/.DS_Store 
